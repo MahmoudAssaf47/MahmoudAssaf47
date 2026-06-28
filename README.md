@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1C1A17,100:2D261E&height=220&section=header&text=Mahmoud%20Assaf&fontSize=55&fontColor=F4E0C4&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20TypeScript%20Engineer&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1C1A17,100:2D261E&height=220&section=header&text=Mahmoud%20Assaf&fontSize=55&fontColor=F4E0C4&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Tech%20Lead&descAlignY=60&descSize=16" />
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E6C280&center=true&vCenter=true&width=700&lines=Scalable+SaaS+Platforms;Real-Time+Applications;Microservices+Architecture;Performance+Optimization" />
